@@ -1,2 +1,3 @@
-! 欢乐斗地主
-||https://huanle.qq.com
+#欢乐斗地主
+127.0.0.1 huanle.qq.com
+127.0.0.1 *.huanle.qq.com
